@@ -1,6 +1,6 @@
 # advancedinformatics
 
-#### introduction to all things BASH in scripts
+###### introduction to all things BASH in scripts
 
 ### selecting top-ten data enteries 
 
