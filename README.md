@@ -1,16 +1,16 @@
 # advancedinformatics
 
-# introduction to all things BASH in scripts
+#### introduction to all things BASH in scripts
 
-# selecting top-ten data enteries 
+### selecting top-ten data enteries 
 
-# listing home directories 
+### listing home directories 
 
-# back-up 
+### back-up 
 
-# recent in-use documents 
+### recent in-use documents 
 
-# comparing characters in text file of list of text (nano) 
+### comparing characters in text file of list of text (nano) 
 
 
 
